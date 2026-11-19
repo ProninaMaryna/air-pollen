@@ -1,0 +1,81 @@
+{
+ "results": [
+  {
+   "address_components": [
+    {
+     "long_name": "Київ",
+     "short_name": "Київ",
+     "types": [
+      "locality",
+      "political"
+     ]
+    },
+    {
+     "long_name": "місто Київ",
+     "short_name": "місто Київ",
+     "types": [
+      "administrative_area_level_2",
+      "political"
+     ]
+    },
+    {
+     "long_name": "місто Київ",
+     "short_name": "місто Київ",
+     "types": [
+      "administrative_area_level_1",
+      "political"
+     ]
+    },
+    {
+     "long_name": "Україна",
+     "short_name": "UA",
+     "types": [
+      "country",
+      "political"
+     ]
+    },
+    {
+     "long_name": "02000",
+     "short_name": "02000",
+     "types": [
+      "postal_code"
+     ]
+    }
+   ],
+   "formatted_address": "Київ, Україна, 02000",
+   "geometry": {
+    "bounds": {
+     "northeast": {
+      "lat": 50.5905234,
+      "lng": 30.825941
+     },
+     "southwest": {
+      "lat": 50.213273,
+      "lng": 30.2394401
+     }
+    },
+    "location": {
+     "lat": 50.4503596,
+     "lng": 30.5245025
+    },
+    "location_type": "APPROXIMATE",
+    "viewport": {
+     "northeast": {
+      "lat": 50.5905234,
+      "lng": 30.825941
+     },
+     "southwest": {
+      "lat": 50.213273,
+      "lng": 30.2394401
+     }
+    }
+   },
+   "place_id": "ChIJBUVa4U7P1EAR_kYBF9IxSXY",
+   "types": [
+    "locality",
+    "political"
+   ]
+  }
+ ],
+ "status": "OK"
+}

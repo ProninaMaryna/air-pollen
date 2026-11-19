@@ -1,0 +1,421 @@
+{
+ "regionCode": "UA",
+ "dailyInfo": [
+  {
+   "date": {
+    "year": 2026,
+    "month": 11,
+    "day": 19
+   },
+   "pollenTypeInfo": [
+    {
+     "code": "GRASS",
+     "displayName": "Трава",
+     "inSeason": false,
+     "indexInfo": {
+      "code": "UPI",
+      "displayName": "Universal Pollen Index",
+      "value": 1,
+      "category": "Дуже низький",
+      "indexDescription": "У людей із дуже сильною алергією на пилок можуть виникати симптоми",
+      "color": {
+       "green": 0.61960787,
+       "blue": 0.22745098
+      }
+     },
+     "healthRecommendations": [
+      "Рівень пилку зараз дуже низький. Сьогодні чудовий день для відпочинку на природі."
+     ]
+    },
+    {
+     "code": "TREE",
+     "displayName": "Дерево"
+    },
+    {
+     "code": "WEED",
+     "displayName": "Бур’ян"
+    }
+   ],
+   "plantInfo": [
+    {
+     "code": "HAZEL",
+     "displayName": "Ліщина"
+    },
+    {
+     "code": "ASH",
+     "displayName": "Ясен"
+    },
+    {
+     "code": "COTTONWOOD",
+     "displayName": "Тополя"
+    },
+    {
+     "code": "OAK",
+     "displayName": "Дуб"
+    },
+    {
+     "code": "PINE",
+     "displayName": "Сосна"
+    },
+    {
+     "code": "BIRCH",
+     "displayName": "Береза"
+    },
+    {
+     "code": "OLIVE",
+     "displayName": "Оливкове дерево"
+    },
+    {
+     "code": "GRAMINALES",
+     "displayName": "Трава",
+     "inSeason": false,
+     "indexInfo": {
+      "code": "UPI",
+      "displayName": "Universal Pollen Index",
+      "value": 1,
+      "category": "Дуже низький",
+      "indexDescription": "У людей із дуже сильною алергією на пилок можуть виникати симптоми",
+      "color": {
+       "green": 0.61960787,
+       "blue": 0.22745098
+      }
+     }
+    },
+    {
+     "code": "RAGWEED",
+     "displayName": "Амброзія"
+    },
+    {
+     "code": "ALDER",
+     "displayName": "Вільха"
+    },
+    {
+     "code": "MUGWORT",
+     "displayName": "Полин"
+    }
+   ]
+  },
+  {
+   "date": {
+    "year": 2026,
+    "month": 11,
+    "day": 20
+   },
+   "pollenTypeInfo": [
+    {
+     "code": "GRASS",
+     "displayName": "Трава",
+     "inSeason": false,
+     "indexInfo": {
+      "code": "UPI",
+      "displayName": "Universal Pollen Index",
+      "value": 1,
+      "category": "Дуже низький",
+      "indexDescription": "У людей із дуже сильною алергією на пилок можуть виникати симптоми",
+      "color": {
+       "green": 0.61960787,
+       "blue": 0.22745098
+      }
+     },
+     "healthRecommendations": [
+      "Рівень пилку зараз дуже низький. Сьогодні чудовий день для відпочинку на природі."
+     ]
+    },
+    {
+     "code": "TREE",
+     "displayName": "Дерево"
+    },
+    {
+     "code": "WEED",
+     "displayName": "Бур’ян"
+    }
+   ],
+   "plantInfo": [
+    {
+     "code": "HAZEL",
+     "displayName": "Ліщина"
+    },
+    {
+     "code": "ASH",
+     "displayName": "Ясен"
+    },
+    {
+     "code": "COTTONWOOD",
+     "displayName": "Тополя"
+    },
+    {
+     "code": "OAK",
+     "displayName": "Дуб"
+    },
+    {
+     "code": "PINE",
+     "displayName": "Сосна"
+    },
+    {
+     "code": "BIRCH",
+     "displayName": "Береза"
+    },
+    {
+     "code": "OLIVE",
+     "displayName": "Оливкове дерево"
+    },
+    {
+     "code": "GRAMINALES",
+     "displayName": "Трава",
+     "inSeason": false,
+     "indexInfo": {
+      "code": "UPI",
+      "displayName": "Universal Pollen Index",
+      "value": 1,
+      "category": "Дуже низький",
+      "indexDescription": "У людей із дуже сильною алергією на пилок можуть виникати симптоми",
+      "color": {
+       "green": 0.61960787,
+       "blue": 0.22745098
+      }
+     }
+    },
+    {
+     "code": "RAGWEED",
+     "displayName": "Амброзія"
+    },
+    {
+     "code": "ALDER",
+     "displayName": "Вільха"
+    },
+    {
+     "code": "MUGWORT",
+     "displayName": "Полин"
+    }
+   ]
+  },
+  {
+   "date": {
+    "year": 2026,
+    "month": 11,
+    "day": 21
+   },
+   "pollenTypeInfo": [
+    {
+     "code": "GRASS",
+     "displayName": "Трава",
+     "inSeason": false,
+     "indexInfo": {
+      "code": "UPI",
+      "displayName": "Universal Pollen Index",
+      "value": 1,
+      "category": "Дуже низький",
+      "indexDescription": "У людей із дуже сильною алергією на пилок можуть виникати симптоми",
+      "color": {
+       "green": 0.61960787,
+       "blue": 0.22745098
+      }
+     },
+     "healthRecommendations": [
+      "Рівень пилку зараз дуже низький. Сьогодні чудовий день для відпочинку на природі."
+     ]
+    },
+    {
+     "code": "TREE",
+     "displayName": "Дерево"
+    },
+    {
+     "code": "WEED",
+     "displayName": "Бур’ян"
+    }
+   ],
+   "plantInfo": [
+    {
+     "code": "HAZEL",
+     "displayName": "Ліщина"
+    },
+    {
+     "code": "ASH",
+     "displayName": "Ясен"
+    },
+    {
+     "code": "COTTONWOOD",
+     "displayName": "Тополя"
+    },
+    {
+     "code": "OAK",
+     "displayName": "Дуб"
+    },
+    {
+     "code": "PINE",
+     "displayName": "Сосна"
+    },
+    {
+     "code": "BIRCH",
+     "displayName": "Береза"
+    },
+    {
+     "code": "OLIVE",
+     "displayName": "Оливкове дерево"
+    },
+    {
+     "code": "GRAMINALES",
+     "displayName": "Трава",
+     "inSeason": false,
+     "indexInfo": {
+      "code": "UPI",
+      "displayName": "Universal Pollen Index",
+      "value": 1,
+      "category": "Дуже низький",
+      "indexDescription": "У людей із дуже сильною алергією на пилок можуть виникати симптоми",
+      "color": {
+       "green": 0.61960787,
+       "blue": 0.22745098
+      }
+     }
+    },
+    {
+     "code": "RAGWEED",
+     "displayName": "Амброзія"
+    },
+    {
+     "code": "ALDER",
+     "displayName": "Вільха"
+    },
+    {
+     "code": "MUGWORT",
+     "displayName": "Полин"
+    }
+   ]
+  },
+  {
+   "date": {
+    "year": 2026,
+    "month": 11,
+    "day": 22
+   },
+   "pollenTypeInfo": [
+    {
+     "code": "GRASS",
+     "displayName": "Трава"
+    },
+    {
+     "code": "TREE",
+     "displayName": "Дерево"
+    },
+    {
+     "code": "WEED",
+     "displayName": "Бур’ян"
+    }
+   ],
+   "plantInfo": [
+    {
+     "code": "HAZEL",
+     "displayName": "Ліщина"
+    },
+    {
+     "code": "ASH",
+     "displayName": "Ясен"
+    },
+    {
+     "code": "COTTONWOOD",
+     "displayName": "Тополя"
+    },
+    {
+     "code": "OAK",
+     "displayName": "Дуб"
+    },
+    {
+     "code": "PINE",
+     "displayName": "Сосна"
+    },
+    {
+     "code": "BIRCH",
+     "displayName": "Береза"
+    },
+    {
+     "code": "OLIVE",
+     "displayName": "Оливкове дерево"
+    },
+    {
+     "code": "GRAMINALES",
+     "displayName": "Трава"
+    },
+    {
+     "code": "RAGWEED",
+     "displayName": "Амброзія"
+    },
+    {
+     "code": "ALDER",
+     "displayName": "Вільха"
+    },
+    {
+     "code": "MUGWORT",
+     "displayName": "Полин"
+    }
+   ]
+  },
+  {
+   "date": {
+    "year": 2026,
+    "month": 11,
+    "day": 23
+   },
+   "pollenTypeInfo": [
+    {
+     "code": "GRASS",
+     "displayName": "Трава"
+    },
+    {
+     "code": "TREE",
+     "displayName": "Дерево"
+    },
+    {
+     "code": "WEED",
+     "displayName": "Бур’ян"
+    }
+   ],
+   "plantInfo": [
+    {
+     "code": "HAZEL",
+     "displayName": "Ліщина"
+    },
+    {
+     "code": "ASH",
+     "displayName": "Ясен"
+    },
+    {
+     "code": "COTTONWOOD",
+     "displayName": "Тополя"
+    },
+    {
+     "code": "OAK",
+     "displayName": "Дуб"
+    },
+    {
+     "code": "PINE",
+     "displayName": "Сосна"
+    },
+    {
+     "code": "BIRCH",
+     "displayName": "Береза"
+    },
+    {
+     "code": "OLIVE",
+     "displayName": "Оливкове дерево"
+    },
+    {
+     "code": "GRAMINALES",
+     "displayName": "Трава"
+    },
+    {
+     "code": "RAGWEED",
+     "displayName": "Амброзія"
+    },
+    {
+     "code": "ALDER",
+     "displayName": "Вільха"
+    },
+    {
+     "code": "MUGWORT",
+     "displayName": "Полин"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "results": [
+  {
+   "address_components": [
+    {
+     "long_name": "Дніпро",
+     "short_name": "Дніпро",
+     "types": [
+      "locality",
+      "political"
+     ]
+    },
+    {
+     "long_name": "Дніпропетровська міськрада",
+     "short_name": "Дніпропетровська міськрада",
+     "types": [
+      "administrative_area_level_3",
+      "political"
+     ]
+    },
+    {
+     "long_name": "Дніпропетровська область",
+     "short_name": "Дніпропетровська область",
+     "types": [
+      "administrative_area_level_1",
+      "political"
+     ]
+    },
+    {
+     "long_name": "Україна",
+     "short_name": "UA",
+     "types": [
+      "country",
+      "political"
+     ]
+    },
+    {
+     "long_name": "49000",
+     "short_name": "49000",
+     "types": [
+      "postal_code"
+     ]
+    }
+   ],
+   "formatted_address": "Дніпро, Дніпропетровська область, Україна, 49000",
+   "geometry": {
+    "bounds": {
+     "northeast": {
+      "lat": 48.56886799999999,
+      "lng": 35.2427379
+     },
+     "southwest": {
+      "lat": 48.355729,
+      "lng": 34.757975
+     }
+    },
+    "location": {
+     "lat": 48.464717,
+     "lng": 35.046183
+    },
+    "location_type": "APPROXIMATE",
+    "viewport": {
+     "northeast": {
+      "lat": 48.56886799999999,
+      "lng": 35.2427379
+     },
+     "southwest": {
+      "lat": 48.355729,
+      "lng": 34.757975
+     }
+    }
+   },
+   "place_id": "ChIJj0YI_QPj20ARuhrB8tXzHAo",
+   "types": [
+    "locality",
+    "political"
+   ]
+  }
+ ],
+ "status": "OK"
+}

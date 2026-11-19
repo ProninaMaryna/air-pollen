@@ -1,0 +1,74 @@
+{
+ "results": [
+  {
+   "address_components": [
+    {
+     "long_name": "Харків",
+     "short_name": "Харків",
+     "types": [
+      "locality",
+      "political"
+     ]
+    },
+    {
+     "long_name": "Харківська міськрада",
+     "short_name": "Харківська міськрада",
+     "types": [
+      "administrative_area_level_3",
+      "political"
+     ]
+    },
+    {
+     "long_name": "Харківська область",
+     "short_name": "Харківська область",
+     "types": [
+      "administrative_area_level_1",
+      "political"
+     ]
+    },
+    {
+     "long_name": "Україна",
+     "short_name": "UA",
+     "types": [
+      "country",
+      "political"
+     ]
+    }
+   ],
+   "formatted_address": "Харків, Харківська область, Україна",
+   "geometry": {
+    "bounds": {
+     "northeast": {
+      "lat": 50.1053867,
+      "lng": 36.4558124
+     },
+     "southwest": {
+      "lat": 49.883796,
+      "lng": 36.115837
+     }
+    },
+    "location": {
+     "lat": 50.00201269999999,
+     "lng": 36.3073994
+    },
+    "location_type": "APPROXIMATE",
+    "viewport": {
+     "northeast": {
+      "lat": 50.1053867,
+      "lng": 36.4558124
+     },
+     "southwest": {
+      "lat": 49.883796,
+      "lng": 36.115837
+     }
+    }
+   },
+   "place_id": "ChIJiw-rY5-gJ0ERCr6kGmgYTC0",
+   "types": [
+    "locality",
+    "political"
+   ]
+  }
+ ],
+ "status": "OK"
+}
